@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+a{
+	text-decoration:none;
+}
+/*链接字体，颜色*/
+#wrapper{
+	max-wieth:940px;
+	margin:0 auto;
+	padding:0 5%;
+	}
+/*div*/
+#logo{
+	text-align:center;
+margin:0;
+    }
+
+/*logo位置*/
+h1{
+	color:#000000;
+	font-size:2em;
+	}
+h2{
+	color:#000000;
+	}
+/*导航颜色*/
+
+nav a:hover{
+	color:#721092；
+	}
+/*导航颜色及背景颜色*/
+body{
+	color:#999999；
+	}
+footer{text-align:center;
+color:#6A6969;}
